@@ -24,13 +24,12 @@ lon_bouy2 = -82.452927
 lon_bouy3 = -82.453066
 
 destination_point(27.374223,lon_bouy3,270,7.292 )#N1
-destination_point(27.374203,lon_bouy3,270,7.75  )#F1
-destination_point(27.374053,lon_bouy3,270,8.934 )#F2
-destination_point(27.374000,lon_bouy3,270,10.927)#f3
-destination_point(27.373953,lon_bouy3,270,9.757 )#f4
-destination_point(27.373953,lon_bouy3,270,8.24  )#f5
-destination_point(27.373914,lon_bouy3,270,5.857 )#f6
-destination_point(27.373914,lon_bouy3,270,4.037 )#f7
+destination_point(27.374053,lon_bouy3,270,8.934 )#F1
+destination_point(27.374000,lon_bouy3,270,10.927)#f2
+destination_point(27.373953,lon_bouy3,270,9.757 )#f3
+destination_point(27.373953,lon_bouy3,270,8.24  )#f4
+destination_point(27.373914,lon_bouy3,270,5.857 )#f5
+destination_point(27.373914,lon_bouy3,270,4.037 )#f6
 destination_point(27.373914,lon_bouy2,270,5.985 )#s1
 destination_point(27.373731,lon_bouy1,270,1.963 )#s2
 destination_point(27.373828,lon_bouy1,270,3.666 )#s3
